@@ -29,7 +29,7 @@
 
 .dropdown .dropbtn {
   cursor: pointer;
-  font-size:20px;  
+  font-size:25px;  
   border: none;
   outline: none;
   color: grey red(216, 198, 224);
