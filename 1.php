@@ -124,7 +124,7 @@
               <a class="active" href="low.php"><h1>كتب قانون</a></h1>
               <a class="active" href="mankind.php"><h1>كتب تنميه بشريه</a></h1>
               <a class="active" href="computer.php><h1>كتب حاسوب</a></h1>
-              <a class="active" href="novels.php"><h1>روايات</a></h1>
+             
               <a class="active" href="art.php"><h1>كتب ادب</a></h1>
               </div> </right>
 
