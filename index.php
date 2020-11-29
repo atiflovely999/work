@@ -29,10 +29,10 @@
 
 .dropdown .dropbtn {
   cursor: pointer;
-  font-size:25px;  
+  font-size:22px;  
   border: none;
   outline: none;
-  color: grey red(216, 198, 224);
+  color: rgb(216, 198, 224);
   padding: 14px 16px;
   background-color: inherit;
   font-family: inherit;
