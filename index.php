@@ -29,10 +29,10 @@
 
 .dropdown .dropbtn {
   cursor: pointer;
-  font-size:22px;  
+  font-size:15px;  
   border: none;
   outline: none;
-  color: rgb(216, 198, 224);
+  color: grey(216, 198, 224);
   padding: 14px 16px;
   background-color: inherit;
   font-family: inherit;
@@ -80,7 +80,7 @@
     <i class="fa fa-caret-down"></i>
   </button>
   <div class="dropdown-content" id="myDropdown">
-  <a class="active" href="computer.php"><h1>كتب حاسوب</a></h1>
+
     <a class="active" href="islamic.php"><h1>كتب اسلاميه</a></h1>
     <a class="active" href="Medicine.php"><h1>كتب الطب</a></h1>
     <a class="active" href="engineering.php"><h1>كتب هندسه</a></h1>
