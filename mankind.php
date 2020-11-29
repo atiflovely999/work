@@ -122,7 +122,6 @@ color: white;
     <a class="active" href="low.php"><h1>كتب قانون</a></h1>
     <a class="active" href="computer.php"><h1>كتب حاسوب</a></h1>
     <a class="active" href="art.php"><h1>كتب ادب</a></h1>
-    <a class="active" href="novels.php"><h1>روايات</a></h1>
     <a class="active" href="1.php"><h1>المصممين</a></h1>
         </div> </right>
 
