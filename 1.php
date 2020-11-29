@@ -74,7 +74,7 @@
     }
     
     /* On smaller screens, decrease text size */
-    @media only screen and (max-width: 300px) {
+    @media only screen and (max-width: 150px) {
       .text {font-size: 11px}
     }
     </style>
