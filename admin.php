@@ -36,7 +36,7 @@ $_SESSION['USER'] = $getUserName;
 $_SESSION['PASSWORD'] = $getpassword;
 $_SESSION['LOGIN'] =true;
 
-  header("location: report.php");
+  header("location:index.php");
     }else{
         echo"<center>";
         echo"غير صحيح";
