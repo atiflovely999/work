@@ -15,7 +15,7 @@
 
 .navbar a {
   float: right;
-  font-size: 16px;
+  font-size: 20px;
   color: rgb(182, 167, 167);
   text-align: center;
   padding: 20px 16px;
