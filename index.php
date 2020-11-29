@@ -32,7 +32,7 @@
   font-size:20px;  
   border: none;
   outline: none;
-  color: grey(216, 198, 224);
+  color: grey red(216, 198, 224);
   padding: 14px 16px;
   background-color: inherit;
   font-family: inherit;
@@ -74,7 +74,7 @@
 
 <div class="navbar">
   <h1><a href="about.php">عن المكتبه</a></h1>
-  <h1><a href="report.php">لتقارير</a></h1>
+  <h1><a href="admin.php">التقارير</a></h1>
  
   <div class="dropdown">
   <button class="dropbtn" onclick="myFunction()">الاقسام
