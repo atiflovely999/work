@@ -23,7 +23,7 @@
 
 <?php
 $ussename="teamwork";
-$password="12345";
+$password="team@12345";
 
 if(isset($_POST['login'])){
 
@@ -36,7 +36,7 @@ $_SESSION['USER'] = $getUserName;
 $_SESSION['PASSWORD'] = $getpassword;
 $_SESSION['LOGIN'] =true;
 
-  header("location:index.php");
+  header("location:report.php");
     }else{
         echo"<center>";
         echo"غير صحيح";
