@@ -73,7 +73,7 @@
 <body >
 
 <div class="navbar">
-  <h1><a href="about.html">عن المكتبه</a></h1>
+  <h1><a href="about.php">عن المكتبه</a></h1>
  
   <div class="dropdown">
   <button class="dropbtn" onclick="myFunction()">الاقسام
