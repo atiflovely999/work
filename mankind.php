@@ -120,7 +120,6 @@ color: white;
     <a class="active" href="Medicine.php"><h1>كتب الطب</a></h1>
     <a class="active" href="engineering.php"><h1>كتب هندسه</a></h1>
     <a class="active" href="low.php"><h1>كتب قانون</a></h1>
-    <a class="active" href="computer.php"><h1>كتب حاسوب</a></h1>
     <a class="active" href="art.php"><h1>كتب ادب</a></h1>
     <a class="active" href="1.php"><h1>المصممين</a></h1>
         </div> </right>
