@@ -122,7 +122,6 @@
     <a class="active" href="low.php"><h1>كتب قانون</a></h1>
     <a class="active" href="mankind.php"><h1>كتب تنميه بشريه</a></h1>
     <a class="active" href="art.php"><h1>كتب ادب</a></h1>
-    <
     <a class="active" href="1.php"><h1>المصممين</a></h1>
   
     </div> </right>
